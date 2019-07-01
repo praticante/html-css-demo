@@ -10,8 +10,8 @@ Badge Challenge per l'aquisizione del Badge **HTML/CSS**
 ## IMPORTANTE
 Per eseguire questa esercitazione devi obbligatoriamente attenerti a queste indicazioni:
 1. Essere registrato e loggato sul portale github.com
-   - se non sei registrati qui: https://github.com/join
-   - se sei già registrato effettua il login qui: https://github.com/login
+   - se non sei registrati potrai farlo da qui --> https://github.com/join
+   - oppure procedi con il login da qui --> https://github.com/login
 2. Scrivi sempre il tuo codice utilizzando parole in lingua inglese
 3. Inserisci commenti in italiano per rendere chiaro le tue scelte
 
